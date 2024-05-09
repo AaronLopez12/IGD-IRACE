@@ -1,7 +1,8 @@
 # IGD-IRACE
 Una herramienta para la generación de archivos para la optimización de parámetros con IRACE.
 
-El ejemplo adjunto debe ser descargado junto al script IGD-IRACE. Este último script debe ser 
+El ejemplo adjunto debe ser descargado junto al script IGD-IRACE. 
+Este último script debe ser 
 puesto dentro de la carpeta 'Ejemplo' para su correcto funcionamiento. No olvides cerrar la terminal
 después de declarar las variables de entorno en el bashrc.
 
