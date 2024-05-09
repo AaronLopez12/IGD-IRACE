@@ -8,10 +8,4 @@ sudo apt-get install gedit git
 
 git clone https://github.com/AaronLopez12/IGD-IRACE
 
-cd IGD-IRACE
 
-pwd
-
-R
-
-install.packages("irace")
